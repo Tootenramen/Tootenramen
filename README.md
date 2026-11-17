@@ -1,4 +1,4 @@
-[![Drive-Thru Resume: drive through my career](https://raw.githubusercontent.com/Tootenramen/DriveThru-Resume/main/docs/hero.png)](https://tootenramen.github.io/DriveThru-Resume/)
+[![ResumeAI: your résumé as an animated website](https://raw.githubusercontent.com/Tootenramen/ResumeAI/main/docs/hero.png)](https://tootenramen.github.io/ResumeAI/)
 
 # Hi, I'm Gustavo Freitas
 
