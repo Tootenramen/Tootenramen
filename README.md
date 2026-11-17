@@ -12,6 +12,9 @@ so most of what's below is part tool, part art.
 
 | Project | What it is | Try it |
 |---|---|---|
+| **[FR33](https://github.com/Tootenramen/FR33)** | An open-source, self-hosted, local-model SOAR and AI SOC platform. Your data and models stay on your hardware. The hub for POWER and FAST. | [See it](https://tootenramen.github.io/FR33/) |
+| **[POWER](https://github.com/Tootenramen/POWER)** | The chat bar that builds automations: describe a workflow in plain words and get a reviewable playbook, with no code required. Part of FR33. | [Try it](https://tootenramen.github.io/POWER/) |
+| **[FAST](https://github.com/Tootenramen/FAST)** | Freitas Academy Service Teacher: a mentor that coaches analysts through real security work. Part of FR33. | [Meet it](https://tootenramen.github.io/FAST/) |
 | **[DriveThru-Resume](https://github.com/Tootenramen/DriveThru-Resume)** | My résumé as a 3D city you drive through. Every district is a chapter of my career. There is a locked garage if you can crack the packet. | [Drive it](https://tootenramen.github.io/DriveThru-Resume/) |
 | **[SOC-Wall](https://github.com/Tootenramen/SOC-Wall)** | A security operations center as a living art piece. Simulated incidents run the whole pipeline: alert, triage, enrich, respond. | [Watch it](https://tootenramen.github.io/SOC-Wall/) |
 | **[Hyperflow-Playground](https://github.com/Tootenramen/Hyperflow-Playground)** | Paste an alert, get a case you can hand off. IOC extraction, email-header analysis, decoders, ticket and Sigma drafts. Runs entirely in your browser. | [Use it](https://tootenramen.github.io/Hyperflow-Playground/) |
