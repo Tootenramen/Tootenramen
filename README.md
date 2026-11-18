@@ -12,6 +12,9 @@ so most of what's below is part tool, part art.
 
 | Project | What it is | Try it |
 |---|---|---|
+| **[Night Shift Radio](https://github.com/Tootenramen/Night-Shift-Radio)** | KRNL 3.AM, a fictional pirate radio for everyone still on shift. Tune the dial, hear Dot Matrix, set a sleep timer. | [Tune in](https://tootenramen.github.io/Night-Shift-Radio/) |
+| **[After Action](https://github.com/Tootenramen/After-Action)** | A five-minute ritual to close the ticket in your head after an incident: stamp it, release it as a lantern, or archive it. | [Close it](https://tootenramen.github.io/After-Action/) |
+| **[Buddy Pact](https://github.com/Tootenramen/Buddy-Pact)** | Build a standing check-in pact with a peer: a pact card, share link, calendar file and a 60-card deck. | [Make a pact](https://tootenramen.github.io/Buddy-Pact/) |
 | **[Human Uptime](https://github.com/Tootenramen/Human-Uptime)** | A gentle self-care companion for people in security and IT: check-ins, burnout self-check, grounding, and scripts for asking for help. Private, in your browser. Not therapy. | [Check in](https://tootenramen.github.io/Human-Uptime/) |
 | **[Goodnight, root](https://github.com/Tootenramen/Goodnight-Root)** | Bedtime stories and lullabies for sleepless hackers, read in a slow voice with a sleep timer that fades to black. | [Wind down](https://tootenramen.github.io/Goodnight-Root/) |
 | **[Zero-Day Standup](https://github.com/Tootenramen/Zero-Day-Standup)** | A comedy club in your browser. Sudo Sam does original on-call and hacker stand-up, and you can heckle. | [Take a seat](https://tootenramen.github.io/Zero-Day-Standup/) |
