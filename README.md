@@ -12,6 +12,9 @@ so most of what's below is part tool, part art.
 
 | Project | What it is | Try it |
 |---|---|---|
+| **[Human Uptime](https://github.com/Tootenramen/Human-Uptime)** | A gentle self-care companion for people in security and IT: check-ins, burnout self-check, grounding, and scripts for asking for help. Private, in your browser. Not therapy. | [Check in](https://tootenramen.github.io/Human-Uptime/) |
+| **[Goodnight, root](https://github.com/Tootenramen/Goodnight-Root)** | Bedtime stories and lullabies for sleepless hackers, read in a slow voice with a sleep timer that fades to black. | [Wind down](https://tootenramen.github.io/Goodnight-Root/) |
+| **[Zero-Day Standup](https://github.com/Tootenramen/Zero-Day-Standup)** | A comedy club in your browser. Sudo Sam does original on-call and hacker stand-up, and you can heckle. | [Take a seat](https://tootenramen.github.io/Zero-Day-Standup/) |
 | **[Packet Garden](https://github.com/Tootenramen/Packet-Garden)** | Drop a real .pcap and watch the network grow into a living, glowing garden. Beacons, scans and DNS tunnels become fireflies and pests. Runs entirely in your browser. | [Grow it](https://tootenramen.github.io/Packet-Garden/) |
 | **[Breach Tabletop](https://github.com/Tootenramen/Breach-Tabletop)** | Play an incident-response exercise: a ransom clock, a flooding inbox, trade-off decisions, a scored debrief. | [Take command](https://tootenramen.github.io/Breach-Tabletop/) |
 | **[LogSleuth](https://github.com/Tootenramen/LogSleuth)** | A noir detective game: three fictional breaches, a real log query bar and a corkboard of red string. | [Investigate](https://tootenramen.github.io/LogSleuth/) |
