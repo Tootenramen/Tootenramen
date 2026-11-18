@@ -31,7 +31,7 @@ so most of what's below is part tool, part art.
 | **[SOC-Wall](https://github.com/Tootenramen/SOC-Wall)** | A security operations center as a living art piece. Simulated incidents run the whole pipeline: alert, triage, enrich, respond. | [Watch it](https://tootenramen.github.io/SOC-Wall/) |
 | **[Hyperflow-Playground](https://github.com/Tootenramen/Hyperflow-Playground)** | Paste an alert, get a case you can hand off. IOC extraction, email-header analysis, decoders, ticket and Sigma drafts. Runs entirely in your browser. | [Use it](https://tootenramen.github.io/Hyperflow-Playground/) |
 | **[NeatBook-Toolkit](https://github.com/Tootenramen/NeatBook-Toolkit)** | Proof-of-concept demo: one search bar that detects an IP, domain, hash or email and hands you the right lookup. | [Try it](https://tootenramen.github.io/NeatBook-Toolkit/) |
-| **[Packet Garden](https://github.com/Tootenramen/Packet-Garden)** | Drop a real .pcap and watch the network grow into a living, glowing garden. Beacons, scans and DNS tunnels become fireflies and pests. Runs entirely in your browser. | [Grow it](https://tootenramen.github.io/Packet-Garden/) |
+| **[Packet Playbook](https://github.com/Tootenramen/Packet-Playbook)** | Drop a packet capture and read it as a football play: hosts are players, flows are routes, a port scan is a blitz. | [Try it](https://tootenramen.github.io/Packet-Playbook/) |
 
 ## What I work with
 
