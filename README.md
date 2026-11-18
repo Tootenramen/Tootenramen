@@ -12,6 +12,11 @@ so most of what's below is part tool, part art.
 
 | Project | What it is | Try it |
 |---|---|---|
+| **[Packet Garden](https://github.com/Tootenramen/Packet-Garden)** | Drop a real .pcap and watch the network grow into a living, glowing garden. Beacons, scans and DNS tunnels become fireflies and pests. Runs entirely in your browser. | [Grow it](https://tootenramen.github.io/Packet-Garden/) |
+| **[Breach Tabletop](https://github.com/Tootenramen/Breach-Tabletop)** | Play an incident-response exercise: a ransom clock, a flooding inbox, trade-off decisions, a scored debrief. | [Take command](https://tootenramen.github.io/Breach-Tabletop/) |
+| **[LogSleuth](https://github.com/Tootenramen/LogSleuth)** | A noir detective game: three fictional breaches, a real log query bar and a corkboard of red string. | [Investigate](https://tootenramen.github.io/LogSleuth/) |
+| **[QBR Studio](https://github.com/Tootenramen/QBR-Studio)** | Turn account data into an executive-ready quarterly business review, with an adjustable health score and a CFO view. | [Open it](https://tootenramen.github.io/QBR-Studio/) |
+| **[Discovery Call Sim](https://github.com/Tootenramen/Discovery-Call-Sim)** | Practice discovery calls against simulated stakeholders and learn what trust, timing and good questions are worth. | [Run the call](https://tootenramen.github.io/Discovery-Call-Sim/) |
 | **[FR33](https://github.com/Tootenramen/FR33)** | An open-source, self-hosted, local-model SOAR and AI SOC platform. Your data and models stay on your hardware. The hub for POWER and FAST. | [See it](https://tootenramen.github.io/FR33/) |
 | **[POWER](https://github.com/Tootenramen/POWER)** | The chat bar that builds automations: describe a workflow in plain words and get a reviewable playbook, with no code required. Part of FR33. | [Try it](https://tootenramen.github.io/POWER/) |
 | **[FAST](https://github.com/Tootenramen/FAST)** | Freitas Academy Service Teacher: a mentor that coaches analysts through real security work. Part of FR33. | [Meet it](https://tootenramen.github.io/FAST/) |
