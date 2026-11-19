@@ -1,4 +1,5 @@
-<a href="https://tootenramen.github.io"><img src="https://raw.githubusercontent.com/Tootenramen/tootenramen.github.io/main/assets/banner-nightmare.svg" alt="Gustavo Freitas - SOAR and Security Automation" width="100%"></a>
+<a href="https://tootenramen.github.io"><img src="https://raw.githubusercontent.com/Tootenramen/tootenramen.github.io/main/assets/banner-enter.svg" alt="Gustavo Freitas - SOAR and Security Automation" width="100%"></a>
+<p align="center"><b><a href="https://tootenramen.github.io">&#9654; CLICK THE BANNER TO ENTER THE FULL SITE &mdash; SOUND ON</a></b></p>
 
 # Hi, I'm Gustavo Freitas
 
