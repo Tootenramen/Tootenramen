@@ -1,7 +1,5 @@
 <a href="https://tootenramen.github.io"><img src="https://raw.githubusercontent.com/Tootenramen/tootenramen.github.io/main/assets/banner-nightmare.svg" alt="Gustavo Freitas - SOAR and Security Automation" width="100%"></a>
 
-<video src="https://github.com/Tootenramen/tootenramen.github.io/raw/main/assets/ad.mp4" poster="https://raw.githubusercontent.com/Tootenramen/tootenramen.github.io/main/assets/poster.jpg" controls preload="none" width="100%"></video>
-
 # Hi, I'm Gustavo Freitas
 
 **Cybersecurity Visionary · SOAR & Security Automation · Incident Response**
