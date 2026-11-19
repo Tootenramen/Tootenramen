@@ -4,7 +4,7 @@
 
 **Cybersecurity Visionary · SOAR & Security Automation · Incident Response**
 
-8+ years in the SOC and incident response, then building automation as a SOAR engineer at Marriott and working
+10 years in the SOC and incident response, then building automation as a SOAR engineer at Marriott and working
 directly with enterprise customers at Torq. GIAC GCIH certified. I like security work that looks as good as it runs,
 so most of what's below is part tool, part art.
 
