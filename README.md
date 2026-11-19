@@ -1,4 +1,4 @@
-[![ResumeAI: your résumé as an animated website](https://raw.githubusercontent.com/Tootenramen/ResumeAI/main/docs/hero.png)](https://tootenramen.github.io/ResumeAI/)
+<a href="https://tootenramen.github.io"><img src="https://raw.githubusercontent.com/Tootenramen/tootenramen.github.io/main/assets/banner.svg" alt="Gustavo Freitas - SOAR and Security Automation" width="100%"></a>
 
 # Hi, I'm Gustavo Freitas
 
@@ -7,6 +7,8 @@
 8+ years in the SOC and incident response, then building automation as a SOAR engineer at Marriott and working
 directly with enterprise customers at Torq. GIAC GCIH certified. I like security work that looks as good as it runs,
 so most of what's below is part tool, part art.
+
+[![ResumeAI: your résumé as an animated website](https://raw.githubusercontent.com/Tootenramen/ResumeAI/main/docs/hero.png)](https://tootenramen.github.io/ResumeAI/)
 
 ## Start here
 
