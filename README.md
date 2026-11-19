@@ -2,7 +2,7 @@
 
 # Hi, I'm Gustavo Freitas
 
-**Customer Success Engineer · SOAR & Security Automation · Incident Response**
+**Cybersecurity Visionary · SOAR & Security Automation · Incident Response**
 
 8+ years in the SOC and incident response, then building automation as a SOAR engineer at Marriott and working
 directly with enterprise customers at Torq. GIAC GCIH certified. I like security work that looks as good as it runs,
