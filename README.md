@@ -8,8 +8,6 @@
 directly with enterprise customers at Torq. GIAC GCIH certified. I like security work that looks as good as it runs,
 so most of what's below is part tool, part art.
 
-[![ResumeAI: your résumé as an animated website](https://raw.githubusercontent.com/Tootenramen/ResumeAI/main/docs/hero.png)](https://tootenramen.github.io/ResumeAI/)
-
 ## Start here
 
 <table>
